@@ -6,7 +6,7 @@ welcome to **studio::vexor**. we craft purposeful, clean, and innovative digital
 
 ---
 
-## about Us
+## about us
 
 - **purposeful design**: meaningful and intentional.
 - **exploration**: experimenting with technology and ideas.
